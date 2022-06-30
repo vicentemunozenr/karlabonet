@@ -91,7 +91,10 @@
   }
 }
 
-@font-face { font-family: Helvetica; <strong>font-display: swap;</strong> }
+@font-face { 
+  font-family: Helvetica;
+  font-display: swap; 
+ }
 
 .fotos { 
   background-size: cover; 
