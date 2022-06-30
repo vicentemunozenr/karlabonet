@@ -1,16 +1,16 @@
 const datos = [
     {
-        picsum: "img/expo1.webp",
+        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo2.webp",
         title: "Casa Galería",
         text: "Intervención de mi propio hogar, 2018",
     },
     {
-        picsum: "img/expo2.webp",
+        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo1.webp",
         title: "Exposición de los estudiantes",
         text: "En el 2017, los estudiantes tuvieron la oportunidad de colar sus trabajo de ese año en el colegio Epullay.",
     },
     {
-        picsum: "img/expo3.webp",
+        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo3.webp",
         title: "Centro Lyon",
         text: "Luego del exito de la Casa Galería, en el 2019 fui invitada a formar parte del Centro Lyon",
     },
