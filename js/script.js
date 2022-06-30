@@ -1,11 +1,11 @@
 const datos = [
     {
-        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo2.webp",
+        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo1.webp",
         title: "Casa Galería",
         text: "Intervención de mi propio hogar, 2018",
     },
     {
-        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo1.webp",
+        picsum: "https://raw.githubusercontent.com/vicentemunozenr/karlabonet/main/img/expo2.webp",
         title: "Exposición de los estudiantes",
         text: "En el 2017, los estudiantes tuvieron la oportunidad de colar sus trabajo de ese año en el colegio Epullay.",
     },
